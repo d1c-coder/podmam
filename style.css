@@ -1,0 +1,199 @@
+:root{
+  --black : rgba(0, 0, 0, 1);
+  --crimson-2: rgba(232, 22, 22, 1) ;
+  --crimson: rgba(233, 22, 22, 1) ;
+  --white: rgba(255, 255, 255, 1) ;
+  
+  --font-size-m: 20px;
+  --font-size-1: 24px;
+  --font-size-x1:32px;
+  --font-family-inter:"Inter";
+}  
+a{
+  text-decoration: none;
+}
+.inter-bold-black-20px {
+  color : var (--black) ;
+  font-family : var (--font-family-inter) ;
+  font-size: var (- font size-m) ;
+  font-weight : 700;
+  font-style: normal;}
+  
+  .inter-bold-white-32px {
+  color : var (--white) ;
+  font-family : var (--font-family-inter) ;
+  font-size: var (--font-size-x1) ;
+  font-weight : 700;
+  font-style: normal;}
+  
+  .inter-bold-black-32px {
+  color : var (--black) ;
+  font-family : var (--font-family-inter) ;
+  font-size: var(--font size-x1) ;
+  font-weight : 700;
+  font-style: normal;}
+  .inter-bold-white-20px {
+    color: var (-white) ;
+    font-family: var (--font-family-inter) ;
+    font-size: var (--font size-m) ;
+    font-weight : 780;
+    font-style: normal ;}
+    
+    .inter-bold-crimson-20px {
+    color : var (--crimson) ;
+    font-family: var (--font-family-inter) ;
+    font-size: var (--font size-m) ;
+    font-weight : 780;
+    font-style: normal;}
+    
+
+  
+@import
+url("https ://fonts. googleapis.com/css?family=Inter :700") ;
+
+.iphone-13-pro-max-1 {
+align-items: center;
+background-color : var (--white) ;
+border : 1px none;
+display:flex;
+flex-direction: column;
+height : 1583px;
+padding: 34px 0;
+width: 428px;}
+
+.hidden,
+.hidden * {
+pointer-events: none;
+visibility : hidden;}
+
+.lorem-ipsum {
+letter-spacing: 0;
+line-height : normal;
+margin-top: 25px;
+min-height : 45px;
+text-align: center;
+width: 324px;}
+
+.owned-by-ayelabola-daniel {
+cursor : pointer;
+letter-spacing: 0;
+line-height : normal;
+
+margin-right: 10px;
+margin-top : 67px;
+min-height : 30px;
+width: 278px;}
+
+you-wake-up-in-the-m {
+letter-spacing: 0;
+line-height: normal;
+min-height : 129px;
+text-align: center;
+width : 330px;}
+
+.figmapod-2 {
+height : 197px;
+margin-right : 4px;
+margin-top : 1px;
+object-fit: cover;
+width: 346px;}
+
+.services {
+letter-spacing: 0;
+line-height: normal;
+margin-right : 21px;
+
+margin-top : 17px;
+min-height : 33px;
+text-align: center;
+width: 281px;}
+
+about-us {
+letter-spacing: 0;
+line-height: normal;
+margin-right : 21px;
+
+margin-top : 1px;
+min-height : 33px;
+text-align: center;
+width: 281px;}
+.figmapod-3 {
+  height : 197px;
+  margin-right : 4px;
+  margin-top : 12px;
+  object-fit: cover;
+  width: 346px;}
+  
+  overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  
+  gap : 78px;
+  margin-right : 10px;
+  
+  margin-top: 1px;
+  min-width: 340px;}
+  
+  .overlap-group {
+  align-items: flex-end;
+  background-color : var(--crimson-2) ;
+  border-radius : 10px;
+  
+  display: flex;
+  height : 34px;
+  min-width: 131px;
+  padding : 1px 8px;}
+  .login {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height : 28px;
+    text-align: center;
+    width: 114px;}
+    
+    .sign-up {
+    letter-spacing: 0;
+    line-height : normal;
+    min-height : 28px;
+    text-align: center;
+    width: 114px;}
+    
+    .figmapod-1 {
+    height: 571px;
+    margin-top : 2px;
+    object-fit: cover;
+    width: 428px;}
+    .title {
+      letter-spacing: 0;
+      line-height: normal;
+      margin-top : 10px;
+      min-height : 45px;
+      text-align: center;
+      
+      width : 324px;}
+      .flex-row {
+      
+      align-items: flex-start;
+      align-self : flex-start;
+      display: flex;
+      
+      gap : 84px;
+      height : 41px;
+      margin-left: 27px;
+      min-width: 295px;}
+      
+      .podcast-site {
+      color : var (--black) ;
+      font-family: var(--font-family-inter) ;
+      font-size: var(--font-size-1) ;
+      font-weight : 700;
+      letter-spacing: 0;
+      line-height: normal;
+      min-height:41px;
+      width:187px;}
+      .x02-menu-icon {
+        cursor : pointer;
+        height: 24px;
+        margin-top: 1px;
+        width : 24px;}
+        
+  
